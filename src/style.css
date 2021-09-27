@@ -20,13 +20,11 @@ a:hover {
   color: brown;
 }
 
-img {
-max-width: 400px;
+.croissant {
+  max-width: 400px;
   margin-bottom: 20px;
   padding: 20px;
-}
-
-img.center {
-   display: block; 
-   margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
