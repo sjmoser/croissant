@@ -19,3 +19,9 @@ a {
 a:hover {
   color: brown;
 }
+
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
