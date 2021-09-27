@@ -4,6 +4,7 @@ body {
 
 h1 {
   font-size: 60px;
+  text-align: center;
 }
 
 a {
@@ -12,7 +13,7 @@ a {
   color: white;
   font-size: 36px;
 }
-.logo {
+.croissant {
   max-width: 400px;
   margin-bottom: 20px;
 }
