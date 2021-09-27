@@ -1,0 +1,12 @@
+body {
+  background-color: fuchsia;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
