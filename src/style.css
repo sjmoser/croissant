@@ -20,10 +20,7 @@ a:hover {
   color: brown;
 }
 
-.croissant {
-  max-width: 400px;
-  margin-bottom: 20px;
-  padding: 20px;
+.croissant div {
   display: flex;
   justify-content: center;
   align-items: center;
