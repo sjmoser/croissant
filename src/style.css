@@ -12,6 +12,8 @@ a {
   cursor: pointer;
   color: white;
   font-size: 36px;
+  display: flex;
+  justify-content: space-evenly;
 }
 .croissant {
   max-width: 400px;
