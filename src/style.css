@@ -15,8 +15,13 @@ a {
   display: flex;
   justify-content: space-evenly;
 }
+
+a:hover {
+  color: brown;
+}
 .croissant {
   max-width: 400px;
   margin-bottom: 20px;
-  display: block;
+  display: flex;
+  justify-content: center;
 }
