@@ -19,9 +19,3 @@ a {
 a:hover {
   color: brown;
 }
-
-.croissant div {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
