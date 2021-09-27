@@ -19,9 +19,11 @@ a {
 a:hover {
   color: brown;
 }
-.croissant {
+
+.croissant img {
   max-width: 400px;
   margin-bottom: 20px;
   display: flex;
+  padding: 20px;
   justify-content: center;
 }
